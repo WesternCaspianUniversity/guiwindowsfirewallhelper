@@ -1,0 +1,15 @@
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\bin\Debug\GUIFirewallHelper.exe.config
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\bin\Debug\GUIFirewallHelper.exe
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\bin\Debug\GUIFirewallHelper.pdb
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\obj\Debug\GUIFirewallHelper.csproj.AssemblyReference.cache
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\obj\Debug\GUIFirewallHelper.csproj.SuggestedBindingRedirects.cache
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\obj\Debug\GUIFirewallHelper.Form1.resources
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\obj\Debug\GUIFirewallHelper.Properties.Resources.resources
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\obj\Debug\GUIFirewallHelper.csproj.GenerateResource.cache
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\obj\Debug\GUIFirewallHelper.csproj.CoreCompileInputs.cache
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\obj\Debug\GUIFirewallHelper.exe
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\obj\Debug\GUIFirewallHelper.pdb
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\bin\Debug\GUIFirewallHelper.exe.manifest
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\bin\Debug\GUIFirewallHelper.application
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\obj\Debug\GUIFirewallHelper.exe.manifest
+C:\Users\azarm\Desktop\GUIFirewallHelper\GUIFirewallHelper\obj\Debug\GUIFirewallHelper.application
